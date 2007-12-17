@@ -12,7 +12,6 @@ License:        GPL
 Group:          Development/Other
 URL:            http://www.red-bean.com/cvsutils/
 Source0:        http://www.red-bean.com/cvsutils/releases/%name-%version.tar.bz2
-BuildRoot:      %_tmppath/%name-buildroot
 BuildArch:      noarch
 
 %description
