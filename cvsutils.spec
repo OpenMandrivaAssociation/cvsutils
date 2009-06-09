@@ -1,6 +1,6 @@
 %define name    cvsutils
 %define version 0.2.5
-%define release %mkrel 1
+%define release %mkrel 2
 
 %define Summary Collection of useful CVS scripts
 
@@ -8,7 +8,7 @@ Summary:        %Summary
 Name:           %name
 Version:        %version
 Release:        %release
-License:        BSD
+License:        GPLv2+
 Group:          Development/Other
 URL:            http://www.red-bean.com/cvsutils/
 Source0:        http://www.red-bean.com/cvsutils/releases/%name-%version.tar.gz
