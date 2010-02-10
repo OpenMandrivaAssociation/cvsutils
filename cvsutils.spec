@@ -1,19 +1,18 @@
-%define name    cvsutils
-%define version 0.2.5
-%define release %mkrel 2
+%define	name	cvsutils
+%define	version	0.2.5
+%define	release	%mkrel 2
+%define	Summary	Collection of useful CVS scripts
 
-%define Summary Collection of useful CVS scripts
-
-Summary:        %Summary
-Name:           %name
-Version:        %version
-Release:        %release
-License:        GPLv2+
-Group:          Development/Other
-URL:            http://www.red-bean.com/cvsutils/
-Source0:        http://www.red-bean.com/cvsutils/releases/%name-%version.tar.gz
-BuildRoot:      %_tmppath/%name-buildroot
-BuildArch:      noarch
+Summary:	%Summary
+Name:		%name
+Version:	%version
+Release:	%release
+License:	GPLv2+
+Group:		Development/Other
+URL:		http://www.red-bean.com/cvsutils/
+Source0:	http://www.red-bean.com/cvsutils/releases/%name-%version.tar.gz
+BuildRoot:	%_tmppath/%name-buildroot
+BuildArch:	noarch
 
 %description
 CVS Utilities is a collection of scripts, mostly in the Perl language,
