@@ -1,6 +1,6 @@
 %define	name	cvsutils
 %define	version	0.2.5
-%define	release	%mkrel 2
+%define release	3
 %define	Summary	Collection of useful CVS scripts
 
 Summary:	%Summary
