@@ -5,8 +5,8 @@
 
 Summary:	%Summary
 Name:		%name
-Version:	%version
-Release:	%release
+Version:	0.2.6
+Release:	1%release
 License:	GPLv2+
 Group:		Development/Other
 URL:		http://www.red-bean.com/cvsutils/
